@@ -1,10 +1,10 @@
 {
     "name"            : "difflib"
-  , "version"         : "0.2.4"
+  , "version"         : "0.2.5"
   , "description"     : "text diff library ported from Python's difflib module"
-  , "homepage"        : "https://github.com/qiao/difflib.js"
+  , "homepage"        : "https://github.com/lndj/difflib.js"
   , "keywords"        : ["diff"]
-  , "author"          : "Xueqiao Xu <xueqiaoxu@gmail.com>"
+  , "author"          : "Ning Luo<lnanddj@gmail.com>"
   , "main"            : "./index.js"
   , "dependencies"    : {
       "heap"            : ">= 0.2.0"
@@ -18,7 +18,7 @@
   }
   , "repository"      : {
       "type"          : "git"
-    , "url"           : "git://github.com/qiao/difflib.js.git"
+    , "url"           : "git://github.com/lndj/difflib.js.git"
   }
   , "licenses"        : [{
       "type"          :  "PSF"
