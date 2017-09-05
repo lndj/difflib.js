@@ -1,5 +1,5 @@
 {
-    "name"            : "difflib"
+    "name"            : "diffit"
   , "version"         : "0.2.5"
   , "description"     : "text diff library ported from Python's difflib module"
   , "homepage"        : "https://github.com/lndj/difflib.js"
