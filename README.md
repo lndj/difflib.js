@@ -1,4 +1,4 @@
-Difflib.js
+Diffit.js
 ==========
 
 A JavaScript module which provides classes and functions for comparing sequences. It can be used for example, for comparing files, and can produce difference information in various formats, including context and unified diffs. Ported from Python's [difflib](http://docs.python.org/library/difflib.html) module.
@@ -6,26 +6,20 @@ A JavaScript module which provides classes and functions for comparing sequences
 Installation
 ------------
 
-#### Browser
 
-To use it in the browser, you may download the [minified js file](https://github.com/qiao/difflib.js/raw/master/dist/difflib-browser.js) and include it in your webpage.
-
-```html
-<script type="text/javascript" src="./difflib-browser.js"></script>
-```
 
 #### Node.js
 
 For Node.js, you can install it using Node Package Manager (npm):
 
 ```bash
-npm install difflib
+npm install diffit
 ```
 
 Then, in your script:
 
 ```js
-var difflib = require('difflib');
+var difflib = require('diffit');
 ```
 
 Quick Examples
@@ -588,8 +582,6 @@ Used as a default for parameter charjunk in [ndiff()](#ndiff).
 
 License
 -------
-
-Ported by Xueqiao Xu &lt;xueqiaoxu@gmail.com&gt;
 
 PSF LICENSE AGREEMENT FOR PYTHON 2.7.2
 
