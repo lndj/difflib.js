@@ -1,6 +1,6 @@
 {
     "name"            : "diffit"
-  , "version"         : "0.2.5"
+  , "version"         : "1.0.0"
   , "description"     : "text diff library ported from Python's difflib module"
   , "homepage"        : "https://github.com/lndj/difflib.js"
   , "keywords"        : ["diff"]
